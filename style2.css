@@ -1,0 +1,41 @@
+body{
+    background-color: black;  
+    background-image: url(https://imgs.search.brave.com/OVLij9zsfFNi9zHQPxAdJiCCDNFjljmLgkRU8hft-Cc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA2Lzc5LzYwLzI2/LzM2MF9GXzY3OTYw/MjY2OV8zd2IxUU5o/SHpadHdvOGQxQWJL/dkIxeHlCdGpXM3lG/Vi5qcGc);
+    background-size: cover;
+    
+}
+
+#box1{
+    height: 80px;
+    width: 100vw;
+    /* background-color: firebrick; */
+    border: 2px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+#box2{
+    color: black;
+    font-size: xx-large;
+    /* margin-right: 200px; */
+    
+}
+#box3{
+    color: black;
+    font-size: xx-large;
+    /* margin-right: 200px; */
+}
+#box5{
+    color: black;
+    font-size: xx-large;
+    /* margin-right: 200px; */
+}
+#box6{
+    color: black;
+    font-size: xx-large;
+    /* margin-right: 200px; */
+}
+#box7{
+    margin-left: 1100px;
+}
